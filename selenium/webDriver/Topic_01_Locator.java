@@ -29,7 +29,7 @@ public class Topic_01_Locator {
 	}
 
 	@Test
-	public void TC_01_() {
+	public void TC_01_Login() {
 		
 	}
 
